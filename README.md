@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning digital developement<br><br>👨‍💻 All of my projects are available at https://github.com/bokettoo<br>
+👨‍💻 All of my projects are available at https://github.com/bokettoo<br>
 
 
 # 💻 Tech Stack:
