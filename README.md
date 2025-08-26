@@ -32,6 +32,8 @@
   <h2>📈 My GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=nasaou&show_icons=true&locale=en&theme=dark" alt="Anass's GitHub Stats"/>
   <br>
+  <br>
+  <br>
   <img src="https://github-contributor-stats.vercel.app/api?username=nasaou&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Anass's top contributed repositories"/>
 </div>
 
